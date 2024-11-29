@@ -1,0 +1,38 @@
+main{
+    background-image:url(background.jpg) ;
+    background-attachment: fixed;
+    padding: 200px;
+}
+
+.container{
+    width: 80%;
+    margin:0 auto;
+}
+
+.flex{
+    display:flex;
+    justify-content: space-around;
+    text-align: left;
+    width: 700px;
+    gap: 20px;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.about-us{
+    font-family: lato;
+}
+
+h1{
+    font-family: lato;
+}
+
+h2{
+    font-family: lato;
+}
+
+p{
+    font-family: lato;
+}
